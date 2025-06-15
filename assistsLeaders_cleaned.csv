@@ -1,0 +1,51 @@
+player_id,player_name,team,stat_value,matches_played,assists
+231050,Raphinha,Barcelona,8.0,14,8
+229744,Ousmane Dembélé,Paris Saint-Germain,6.0,15,6
+240233,Achraf Hakimi,Paris Saint-Germain,5.0,17,5
+197628,Julian Brandt,Borussia Dortmund,5.0,13,5
+296319,Charles De Ketelaere,Atalanta,5.0,10,5
+182627,Davide Zappacosta,Atalanta,5.0,9,5
+214596,Fabián Ruiz,Paris Saint-Germain,4.0,17,4
+328238,Bradley Barcola,Paris Saint-Germain,4.0,17,4
+190161,Joshua Kimmich,Bayern Munich,4.0,14,4
+186381,Serhou Guirassy,Borussia Dortmund,4.0,14,4
+198825,Ollie Watkins,Aston Villa,4.0,12,4
+289114,Igor Paixão,Feyenoord Rotterdam,4.0,11,4
+173896,Mohamed Salah,Liverpool,4.0,9,4
+206474,Marcos Llorente,Atlético Madrid,4.0,8,4
+336388,Désiré Doué,Paris Saint-Germain,3.0,16,3
+235818,Federico Valverde,Real Madrid,3.0,14,3
+76762,Luka Modric,Real Madrid,3.0,14,3
+291281,Jude Bellingham,Real Madrid,3.0,13,3
+231692,Jules Koundé,Barcelona,3.0,13,3
+362150,Lamine Yamal,Barcelona,3.0,13,3
+238262,Declan Rice,Arsenal,3.0,13,3
+193297,Youri Tielemans,Aston Villa,3.0,12,3
+213248,Denzel Dumfries,Internazionale,3.0,12,3
+209581,Mikel Merino,Arsenal,3.0,12,3
+219611,Mehdi Taremi,Internazionale,3.0,12,3
+354334,Fermín López,Barcelona,3.0,11,3
+281119,Jeremie Frimpong,Bayer Leverkusen,3.0,10,3
+202099,Breel Embolo,AS Monaco,3.0,10,3
+314177,Arne Engels,Celtic,3.0,10,3
+253937,Samuel Lino,Atlético Madrid,3.0,10,3
+108223,Ángel Di María,Benfica,3.0,9,3
+302793,Seol Young-Woo,Red Star Belgrade,3.0,8,3
+297158,Enzo Millot,VfB Stuttgart,3.0,8,3
+240912,Joey Veerman,PSV Eindhoven,3.0,8,3
+312015,Gerard Martín,Barcelona,3.0,8,3
+308908,Fabian Rieder,VfB Stuttgart,3.0,8,3
+303785,Matheus Nunes,Manchester City,3.0,7,3
+187956,Marko Pjaca,Dinamo Zagreb,3.0,6,3
+288897,Vitinha,Paris Saint-Germain,2.0,17,2
+250465,Pedri,Barcelona,2.0,14,2
+174980,Leandro Trossard,Arsenal,2.0,14,2
+142200,Harry Kane,Bayern Munich,2.0,13,2
+204441,Nicolò Barella,Internazionale,2.0,13,2
+132659,Pascal Groß,Borussia Dortmund,2.0,13,2
+271769,Carlos Augusto,Internazionale,2.0,13,2
+252107,Vinícius Júnior,Real Madrid,2.0,12,2
+193849,Hans Vanaken,Club Brugge,2.0,12,2
+265653,Morgan Rogers,Aston Villa,2.0,12,2
+303793,Christos Tzolis,Club Brugge,2.0,12,2
+220819,Vangelis Pavlidis,Benfica,2.0,12,2

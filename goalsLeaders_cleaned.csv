@@ -1,0 +1,51 @@
+player_id,player_name,team,stat_value,matches_played,goals
+231050,Raphinha,Barcelona,13.0,14,13
+186381,Serhou Guirassy,Borussia Dortmund,13.0,14,13
+142200,Harry Kane,Bayern Munich,11.0,13,11
+125824,Robert Lewandowski,Barcelona,11.0,13,11
+219713,Lautaro Martínez,Internazionale,9.0,14,9
+229744,Ousmane Dembélé,Paris Saint-Germain,8.0,15,8
+252107,Vinícius Júnior,Real Madrid,8.0,12,8
+253989,Erling Haaland,Manchester City,8.0,9,8
+231388,Kylian Mbappé,Real Madrid,7.0,14,7
+220819,Vangelis Pavlidis,Benfica,7.0,12,7
+277206,Julián Álvarez,Atlético Madrid,7.0,10,7
+273499,Jonathan David,Lille,7.0,10,7
+140416,Antoine Griezmann,Atlético Madrid,6.0,10,6
+303748,Florian Wirtz,Bayer Leverkusen,6.0,9,6
+280555,Bukayo Saka,Arsenal,6.0,9,6
+258906,Viktor Gyökeres,Sporting CP,6.0,8,6
+260775,Santiago Gimenez,AC Milan,6.0,7,6
+336388,Désiré Doué,Paris Saint-Germain,5.0,16,5
+286831,Michael Olise,Bayern Munich,5.0,14,5
+362150,Lamine Yamal,Barcelona,5.0,13,5
+267804,Rodrygo,Real Madrid,5.0,12,5
+274913,Karim Adeyemi,Borussia Dortmund,5.0,10,5
+229645,Ademola Lookman,Atalanta,5.0,7,5
+240233,Achraf Hakimi,Paris Saint-Germain,4.0,17,4
+290591,Nuno Mendes,Paris Saint-Germain,4.0,16,4
+217331,Marcus Thuram,Internazionale,4.0,14,4
+339879,Jamie Gittens,Borussia Dortmund,4.0,14,4
+238262,Declan Rice,Arsenal,4.0,13,4
+265653,Morgan Rogers,Aston Villa,4.0,12,4
+272700,Orkun Kökçü,Benfica,4.0,12,4
+306789,Kerem Aktürkoglu,Benfica,4.0,12,4
+170785,Hakan Çalhanoglu,Internazionale,4.0,12,4
+296319,Charles De Ketelaere,Atalanta,4.0,10,4
+286347,Daizen Maeda,Celtic,4.0,9,4
+225607,Christian Pulisic,AC Milan,4.0,9,4
+235677,Dusan Vlahovic,Juventus,4.0,9,4
+231182,Kai Havertz,Arsenal,4.0,8,4
+289155,Benjamin Sesko,RB Leipzig,4.0,8,4
+328238,Bradley Barcola,Paris Saint-Germain,3.0,17,3
+291281,Jude Bellingham,Real Madrid,3.0,13,3
+303821,Jamal Musiala,Bayern Munich,3.0,12,3
+123465,Thomas Müller,Bayern Munich,3.0,12,3
+288896,Gonçalo Ramos,Paris Saint-Germain,3.0,12,3
+304478,Ryan Flamingo,PSV Eindhoven,3.0,11,3
+203669,Martin Ødegaard,Arsenal,3.0,11,3
+341711,Anis Hadj Moussa,Feyenoord Rotterdam,3.0,11,3
+265869,Ferran Torres,Barcelona,3.0,11,3
+261328,Tijjani Reijnders,AC Milan,3.0,10,3
+258917,Rafael Leão,AC Milan,3.0,10,3
+260262,Nicolas Kühn,Celtic,3.0,10,3
