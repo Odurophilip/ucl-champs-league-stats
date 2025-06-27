@@ -11,7 +11,6 @@ This project extracts and processes **UEFA Champions League 2024/2025** season d
 - ✅ Player statistics:
   - 🥅 **Top Goal Scorers**
   - 🎯 **Top Assist Providers**
-  - 📈 **Player Ratings** (where available)
 - 🗓️ Match-by-match results:
   - Full-time scores
   - Competing teams and match dates
