@@ -1,7 +1,7 @@
 import requests
 import json
 
-match_id = "xxxxx"  # <- put a real match ID here, e.g. from the ESPN scoreboard API
+match_id = "xxxxx"  
 url = f"https://site.web.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/summary?event={match_id}"
 resp = requests.get(url)
 data = resp.json()
