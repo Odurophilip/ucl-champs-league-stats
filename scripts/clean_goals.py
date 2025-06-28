@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the goals leaders CSV
-df = pd.read_csv("goalsLeaders.csv")
+df = pd.read_csv("../data/goalsLeaders.csv")
 
 # Extract matches played and goals from stat_display
 df["matches_played"] = df["stat_display"].str.extract(r"Matches: (\d+)")
@@ -15,5 +15,5 @@ df["goals"] = pd.to_numeric(df["goals"])
 df = df.drop(columns=["stat_display"])
 
 # Save cleaned version
-df.to_csv("goalsLeaders_cleaned.csv", index=False)
+df.to_csv("../data/goalsLeaders_cleaned.csv", index=False)
 print("✅ Saved cleaned goals leaders to goalsLeaders_cleaned.csv")

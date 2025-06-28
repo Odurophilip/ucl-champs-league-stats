@@ -23,7 +23,7 @@ def get_all_matches(season_id):
     response = requests.get(url, headers=HEADERS)
     return response.json()["matches"]
 
-def save_to_csv(matches, filename="cl_matches.csv"):
+def save_to_csv(matches, filename="../data/cl_matches.csv"):
     """Save match data to CSV"""
     df = pd.DataFrame([{
         "date": match["utcDate"],

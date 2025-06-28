@@ -1,8 +1,14 @@
 import json
 import pandas as pd
+import os
+
+# Path setup
+input_path = "../data/full_response.json"
+output_dir = "../data/ucl_stats_split"
+os.makedirs(output_dir, exist_ok=True)
 
 # Load your saved ESPN Champions League stats response
-with open("full_response.json", "r", encoding="utf-8") as f:
+with open(input_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 stats = data.get("stats", [])
@@ -21,7 +27,7 @@ for stat_block in stats:
         row = {
             "player_id": athlete.get("id"),
             "player_name": athlete.get("displayName"),
-            "team": athlete.get("team", {}).get("name"),
+            "team": athlete.get("team", {}).get("name") if athlete.get("team") else None,
             "stat_value": leader.get("value"),
             "stat_display": leader.get("displayValue")
         }
@@ -31,7 +37,7 @@ for stat_block in stats:
 
     if not df.empty:
         # Save each stat group to its own file
-        filename = f"{category}.csv"
+        filename = os.path.join(output_dir, f"{category}.csv")
         df.to_csv(filename, index=False)
         print(f"📁 Saved: {filename}")
 
@@ -45,7 +51,8 @@ for stat_block in stats:
 
 # Optional: Save combined stats
 if not master_df.empty:
-    master_df.to_csv("ucl_combined_stats.csv", index=False)
-    print("✅ Combined stats saved to ucl_combined_stats.csv")
+    combined_path = os.path.join("../data", "ucl_combined_stats.csv")
+    master_df.to_csv(combined_path, index=False)
+    print(f"✅ Combined stats saved to {combined_path}")
 else:
     print("❌ No player stats found in the JSON.")
