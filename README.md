@@ -63,6 +63,10 @@ Only includes matches and stats from the 2024/2025 UCL season
 
 If player ratings are missing, it's likely due to ESPN not publishing boxscore data for that match.
 
+### 📄 Champions League Dashboard (PDF)
+
+[Download Dashboard PDF](docs/CHAMPIONS%20LEAGUE%202024_2025.pdf)
+
 ✍️ Author
 Philip Oduro
 Data Engineer | Analytics Engineer
