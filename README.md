@@ -65,7 +65,7 @@ If player ratings are missing, it's likely due to ESPN not publishing boxscore d
 
 ### 📄 Champions League Dashboard (PDF)
 
-[Download Dashboard PDF](docs/CHAMPIONS%20LEAGUE%202024_2025.pdf)
+[Download Dashboard PDF](dashboard/CHAMPIONS%20LEAGUE%202024_2025.pdf)
 
 ✍️ Author
 Philip Oduro
